@@ -1,0 +1,20 @@
+2024-10-10 00:05:15.316 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-10 00:06:38.475 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-10 00:07:45.416 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-10 00:13:16.417 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-10 00:13:21.741 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 00:29:41.301 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 01:25:33.966 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 01:35:40.760 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 01:37:28.267 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 01:43:04.486 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 01:52:53.979 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 01:58:08.843 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 02:02:50.089 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 02:18:58.666 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 02:24:12.814 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 02:39:59.077 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 02:53:21.243 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15; handshake=579; [Login] initialization=0; authentication=11; [Post-Login] complete=14077; 
+2024-10-10 02:57:21.373 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 04:03:07.996 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-10 04:06:14.030 +05:30 [INF] User loggin and JWT token generated for user admin

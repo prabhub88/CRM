@@ -1,0 +1,53 @@
+2024-10-09 00:31:34.154 +05:30 [ERR] Exception occured while call URL /api/Customer and statuscode is 500 and the Exception is No mapping exists from object type System.DateOnly to a known managed provider native type.
+2024-10-09 00:34:58.269 +05:30 [ERR] Exception occured while call URL /api/Customer and statuscode is 500 and the Exception is Unable to cast object of type 'System.DateOnly' to type 'System.IConvertible'.
+2024-10-09 00:36:40.928 +05:30 [ERR] Exception occured while call URL /api/Customer and statuscode is 500 and the Exception is Unable to cast object of type 'System.DateOnly' to type 'System.IConvertible'.
+2024-10-09 00:49:45.667 +05:30 [ERR] Exception occured while call URL /api/Customer and statuscode is 500 and the Exception is No mapping exists from object type System.DateOnly to a known managed provider native type.
+2024-10-09 01:00:40.300 +05:30 [ERR] Exception occured while call URL /api/Customer and statuscode is 500 and the Exception is No mapping exists from object type System.DateOnly to a known managed provider native type.
+2024-10-09 01:14:39.016 +05:30 [ERR] Exception occured while call URL /api/Customer and statuscode is 500 and the Exception is Unable to cast object of type 'System.DateOnly' to type 'System.IConvertible'.
+2024-10-09 01:26:42.587 +05:30 [ERR] Exception occured while call URL /api/Customer and statuscode is 500 and the Exception is Input string was not in a correct format.
+2024-10-09 01:47:53.025 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 01:52:20.535 +05:30 [ERR] Exception occured while call URL /api/Customer/DeleteCustomer and statuscode is 500 and the Exception is Customer number must be greather than zero
+2024-10-09 19:29:18.035 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 19:57:55.176 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 19:57:59.688 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 20:31:52.863 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 20:32:42.323 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 20:32:54.800 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 20:33:29.834 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 20:33:48.207 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 20:34:10.456 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 20:34:23.406 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 20:37:21.992 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:11:05.445 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 21:11:52.796 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:11:58.149 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:13:26.573 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:14:10.144 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:14:27.991 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:14:56.293 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:24:40.640 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:24:57.277 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:26:59.892 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:28:54.662 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 21:37:26.719 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 22:28:47.322 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 22:30:30.030 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 22:44:26.631 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 22:45:49.360 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:00:31.150 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:02:21.432 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:08:19.886 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:11:02.165 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:11:42.251 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-09 23:12:37.391 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:13:55.420 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:24:42.396 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:29:03.869 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:29:17.212 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:30:01.968 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:30:53.975 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:32:40.174 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:35:59.596 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:40:17.308 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:43:23.298 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-09 23:53:04.880 +05:30 [INF] User loggin and JWT token generated for user admin

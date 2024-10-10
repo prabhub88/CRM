@@ -1,0 +1,15 @@
+2024-10-08 12:32:44.365 +05:30 [INF] logging infor and token eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjMiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoidGhyZWVzc3MiLCJuYmYiOjE3MjgzNzA5NjQsImV4cCI6MTcyODM3ODE2NH0.VDIRP7lHG_DXlDjlt-0QxBitrqR3hvTbyIJKUbr6pqE
+2024-10-08 14:53:44.413 +05:30 [ERR] Exception occured while call URL /api/Authentication with request body Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream and statuscode is500 and the Exception is custom exception
+2024-10-08 21:50:19.300 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is No service for type 'Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter' has been registered.
+2024-10-08 22:07:31.994 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is No service for type 'Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.ValidateAntiforgeryTokenAuthorizationFilter' has been registered.
+2024-10-08 22:08:55.220 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Username and Password can't be empty
+2024-10-08 22:17:57.634 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-08 22:46:39.212 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Unable to cast object of type 'System.Int32' to type 'System.Int64'.
+2024-10-08 22:57:54.373 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-08 23:04:10.235 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-08 23:04:50.832 +05:30 [ERR] Exception occured while call URL /api/Authentication and statuscode is 500 and the Exception is Invalid user
+2024-10-08 23:05:02.860 +05:30 [ERR] Exception occured while call URL /api/Customer/GetAllCustomers and statuscode is 500 and the Exception is Invalid object name 'Customers'.
+2024-10-08 23:27:35.635 +05:30 [ERR] Exception occured while call URL /api/Customer/GetAllCustomers and statuscode is 500 and the Exception is Invalid object name 'Customers'.
+2024-10-08 23:31:22.436 +05:30 [ERR] Exception occured while call URL /api/Customer/GetAllCustomers and statuscode is 500 and the Exception is Invalid object name 'Customers'.
+2024-10-08 23:32:44.879 +05:30 [INF] User loggin and JWT token generated for user admin
+2024-10-08 23:44:37.814 +05:30 [INF] User loggin and JWT token generated for user admin

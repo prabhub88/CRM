@@ -1,0 +1,20 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="EntityFramework" Version="6.5.1" />
+    <PackageVersion Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.8" />
+    <PackageVersion Include="Microsoft.AspNetCore.Diagnostics" Version="2.2.0" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Options" Version="8.0.2" />
+    <PackageVersion Include="Serilog.AspNetCore" Version="8.0.2" />
+    <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageVersion Include="Serilog" Version="4.0.2" />
+    <PackageVersion Include="Serilog.Sinks.File" Version="6.0.0" />
+    <PackageVersion Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+</Project>

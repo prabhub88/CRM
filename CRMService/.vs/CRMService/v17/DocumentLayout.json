@@ -1,0 +1,573 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\CRM\\CRMService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\sqldatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\sqldatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|c:\\code\\crm\\crmservice\\serviceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\logics\\customerlogicdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\logics\\customerlogicdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\logics\\customerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\logics\\customerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|c:\\code\\crm\\crmservice\\serviceapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|c:\\code\\crm\\crmservice\\serviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\isqldatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\isqldatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|c:\\code\\crm\\crmservice\\serviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\models\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\models\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\logics\\authenticationlogicdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\logics\\authenticationlogicdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\logics\\authenticationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\logics\\authenticationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\utility\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\utility\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|c:\\code\\crm\\crmservice\\serviceapi\\serviceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\serviceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\businesslayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|c:\\code\\crm\\crmservice\\dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A20527-C31F-4F5D-947D-CC7542967404}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|c:\\code\\crm\\crmservice\\serviceapi\\serviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\serviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\exceptionhandlers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\exceptionhandlers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|c:\\code\\crm\\crmservice\\serviceapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|c:\\code\\crm\\crmservice\\businesslayer\\utility\\appsettingsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01BDB-C07A-49C6-9323-3FB23BF9BB3B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\utility\\appsettingsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|c:\\code\\crm\\crmservice\\serviceapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B070B1A1-0F8A-4FD9-B7B1-B975DFBD9C36}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A5C1A7-E2DA-4A7E-80A3-28AB58E7CDA4}|Solution Items{65A5C1A7-E2DA-4A7E-80A3-28AB58E7CDA4}|C:\\Code\\CRM\\CRMService\\Directory.Packages.props||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65A5C1A7-E2DA-4A7E-80A3-28AB58E7CDA4}|Solution Items{65A5C1A7-E2DA-4A7E-80A3-28AB58E7CDA4}|solutionrelative:Directory.Packages.props||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Models\\LoginModel.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:01:39.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerLogic.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Logics\\CustomerLogic.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Logics\\CustomerLogic.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Logics\\CustomerLogic.cs",
+              "RelativeToolTip": "BusinessLayer\\Logics\\CustomerLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:26:49.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Customer.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\Models\\Customer.cs",
+              "RelativeToolTip": "DAL\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:28:30.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\DTO\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\CustomerDto.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\DTO\\CustomerDto.cs",
+              "RelativeToolTip": "DAL\\DTO\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:28:26.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerLogicDal.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\Logics\\CustomerLogicDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Logics\\CustomerLogicDal.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\Logics\\CustomerLogicDal.cs",
+              "RelativeToolTip": "DAL\\Logics\\CustomerLogicDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA/wA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:23:57.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ServiceAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:17:09.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceAPI",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\ServiceAPI.csproj",
+              "RelativeDocumentMoniker": "ServiceAPI\\ServiceAPI.csproj",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\ServiceAPI.csproj",
+              "RelativeToolTip": "ServiceAPI\\ServiceAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T11:39:47.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T11:38:52.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsersDto.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\DTO\\UsersDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\UsersDto.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\DTO\\UsersDto.cs",
+              "RelativeToolTip": "DAL\\DTO\\UsersDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:26:07.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:25:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticationLogicDAL.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\Logics\\AuthenticationLogicDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Logics\\AuthenticationLogicDAL.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\Logics\\AuthenticationLogicDAL.cs",
+              "RelativeToolTip": "DAL\\Logics\\AuthenticationLogicDAL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:16:28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticationLogic.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Logics\\AuthenticationLogic.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Logics\\AuthenticationLogic.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Logics\\AuthenticationLogic.cs",
+              "RelativeToolTip": "BusinessLayer\\Logics\\AuthenticationLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:14:57.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:03:46.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\Repositories\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA7wA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:19:06.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:08:53.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CRMDbContext.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\Models\\CRMDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\CRMDbContext.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\Models\\CRMDbContext.cs",
+              "RelativeToolTip": "DAL\\Models\\CRMDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:00:35.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:11:54.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\ExceptionHandlers\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ExceptionHandlers\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\ExceptionHandlers\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\ExceptionHandlers\\GlobalExceptionHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:55:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "ServiceAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:23:36.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Utility\\Utilities.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Utility\\Utilities.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Utility\\Utilities.cs",
+              "RelativeToolTip": "BusinessLayer\\Utility\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:12:14.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Startup.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Startup.cs",
+              "RelativeToolTip": "ServiceAPI\\Startup.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwB0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:05:51.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Program.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Program.cs",
+              "RelativeToolTip": "ServiceAPI\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:55:18.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServiceAPI.csproj",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\ServiceAPI.csproj",
+              "RelativeDocumentMoniker": "ServiceAPI\\ServiceAPI.csproj",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\ServiceAPI.csproj",
+              "RelativeToolTip": "ServiceAPI\\ServiceAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T02:53:51.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiceAPI\\appsettings.json",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\appsettings.json",
+              "RelativeToolTip": "ServiceAPI\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T02:52:47.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\ServiceAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ServiceAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:52:43.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\User.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Models\\User.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:08:54.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BusinessLayer",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T18:18:54.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T13:13:33.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlDataHelper.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\SqlDataHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\SqlDataHelper.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\SqlDataHelper.cs",
+              "RelativeToolTip": "DAL\\SqlDataHelper.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:56:09.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISqlDataHelper.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\DAL\\ISqlDataHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\ISqlDataHelper.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\DAL\\ISqlDataHelper.cs",
+              "RelativeToolTip": "DAL\\ISqlDataHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:48:13.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppsettingsConfig.cs",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Utility\\AppsettingsConfig.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Utility\\AppsettingsConfig.cs",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\Utility\\AppsettingsConfig.cs",
+              "RelativeToolTip": "BusinessLayer\\Utility\\AppsettingsConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:37:53.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T11:51:55.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Directory.Packages.props",
+              "DocumentMoniker": "C:\\Code\\CRM\\CRMService\\Directory.Packages.props",
+              "RelativeDocumentMoniker": "Directory.Packages.props",
+              "ToolTip": "C:\\Code\\CRM\\CRMService\\Directory.Packages.props",
+              "RelativeToolTip": "Directory.Packages.props",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-07T11:32:17.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
