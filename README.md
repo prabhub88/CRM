@@ -12,3 +12,7 @@ Also run another sql file "SP_InsertUpdateCustomer.SQL" file.
 Open the CRM Service folder and open the .sln file to open the API locally, then run as usual by F5.
 
 Open the CRMUIService->src folder in VS Code tool and run "ng serve" command to launch UI service locally.
+
+How to authenticate the app 
+Use users table credentials, i have attached sql file which has (admin as user id and Test#123 as password)
+
