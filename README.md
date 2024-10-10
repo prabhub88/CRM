@@ -16,3 +16,8 @@ Open the CRMUIService->src folder in VS Code tool and run "ng serve" command to 
 How to authenticate the app 
 Use users table credentials, i have attached sql file which has (admin as user id and Test#123 as password)
 
+How to test the API.
+
+1. Invoke the Authentication API with username and password above mentioned and get the JWT token.
+2. Pass this token to invoke customers API methods as Bearer token.
+
