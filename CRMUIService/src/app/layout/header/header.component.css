@@ -1,0 +1,16 @@
+.company-logo {
+    width: 66px;
+    height: 66px;
+}
+
+.navbar-fixed-top {
+    background: #e4e4e4;
+}
+
+.header-bar {
+    padding: 0;
+}
+
+.dropdown-toggle {
+    color: #077100;
+}

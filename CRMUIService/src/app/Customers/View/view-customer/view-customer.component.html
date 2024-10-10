@@ -1,0 +1,71 @@
+  
+  <div class="container mat-elevation-z8">
+  
+    <div class="form">
+      <mat-form-field floatPlaceholder="never" color="accent">
+        <input matInput #filter placeholder="Filter customers">
+      </mat-form-field>
+    </div>
+  
+    <mat-table #table [dataSource]="datasource" matSort class="mat-cell">
+       ffff
+      <!--- Note that these columns can be defined in any order.
+            The actual rendered columns are set as a property on the row definition" -->
+  
+      <!-- ID Column -->
+      <ng-container matColumnDef="customerNumber">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>CustomerNo</mat-header-cell>
+        <mat-cell *matCellDef="let row" >{{row.customerNumber}}</mat-cell>
+      </ng-container>
+  
+      <ng-container matColumnDef="customerName">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>CustomerName</mat-header-cell>
+        <mat-cell *matCellDef="let row"> {{row.customerName}}</mat-cell>
+      </ng-container>
+  
+      <ng-container matColumnDef="dob">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>DOB</mat-header-cell>
+        <mat-cell *matCellDef="let row"> {{row.dob}}</mat-cell>
+      </ng-container>
+  
+      <ng-container matColumnDef="gender">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Gender</mat-header-cell>
+        <mat-cell *matCellDef="let row"> {{row.gender}}</mat-cell>
+      </ng-container>
+    
+      <!-- actions -->
+      <ng-container matColumnDef="actions">
+        <mat-header-cell *matHeaderCellDef>
+          <button mat-icon-button color="primary" (click)="openAddDialog()">
+            <mat-icon aria-label="Example icon-button with a heart icon">add</mat-icon>
+          </button>
+        </mat-header-cell>
+  
+        <mat-cell *matCellDef="let row; let i=index;">
+          <button mat-icon-button color="accent" (click)="startEdit(i, row.customerNumber, row.customerName, row.dob, row.gender)">
+            <mat-icon aria-label="Edit">edit</mat-icon>
+          </button>
+  
+          <button mat-icon-button color="accent" (click)="deleteItem(i, row.customerNumber, row.customerName, row.dob, row.gender)">
+            <mat-icon aria-label="Delete">delete</mat-icon>
+          </button>
+        </mat-cell>
+      </ng-container>
+  
+      <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+      <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+    </mat-table>
+  
+  
+    <!-- <div class="no-results" [style.display]="datasource.length == 0 ? '' : 'none'">
+      No results
+    </div>
+  
+    <mat-paginator #paginator
+                   [length]="datasource.length"
+                   [pageIndex]="0"
+                   [pageSize]="10"
+                   [pageSizeOptions]="[5, 10, 25, 100]">
+    </mat-paginator> -->
+  </div>
+  

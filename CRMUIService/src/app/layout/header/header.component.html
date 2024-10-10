@@ -1,0 +1,26 @@
+<header class="navbar-fixed-top">
+    <nav class="navbar navbar-default header-bar">
+        <div class="container-fluid">
+            <div class="custom-tbl">
+                <div class="navbar-header">
+
+                </div>
+            </div>
+            <div class="dropdown" style="font-size: 14px;">
+                <a class="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <em class="pi pi-user"></em>
+                            Hello,<strong><em class="hidden-sm hidden-xs visible-md visible-lg">
+                            {{loginUser}}</em></strong>
+                        </a>
+                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" id="logout" (click)="logout()">
+                        <em class="fa fa-power-off"></em>
+                        Logout
+                    </a>
+                  </div>
+            </div>
+            <!--navbar-collapse -->
+        </div>
+        <!--container-fluid -->
+    </nav>
+</header>

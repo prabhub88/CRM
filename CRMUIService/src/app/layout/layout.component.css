@@ -1,0 +1,32 @@
+.headerBorder {
+    background: #007d15;
+    height: 5px;
+}
+
+.main-content {
+    min-height: 460px;
+    padding-top: 10px;
+}
+
+.footer {
+    padding: 8px 20px;
+    background: #007054;
+    color: white;
+    margin: 0px !important;
+    /* position: fixed; */
+    bottom: 0px;
+    width: 100%;
+}
+
+.footer a {
+    color: white !important;
+}
+
+.footer-links {
+    text-align: right;
+}
+
+.footer-links a {
+    display: inline-block;
+    margin-left: 30px;
+}
