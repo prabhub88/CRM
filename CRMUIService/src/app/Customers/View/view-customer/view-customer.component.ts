@@ -77,7 +77,6 @@ startEdit(i: number, custno: number, name: string, dob: string, gender: string) 
       console.log('afteredit');
       console.log(this.datasource);
       console.log(foundIndex);
-      this.dataService.
     }
   });
 }

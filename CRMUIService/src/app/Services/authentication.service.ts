@@ -19,9 +19,7 @@ export class AuthenticationService {
 public get getToken():string{
    let obj= (localStorage.getItem("currentUser")) || '{}';
    var usr=JSON.parse(obj);
-   console.log(usr);
-   console.log('getokenva');
-   if(usr && usr.token.length > 0)
+   if(usr && usr.token?.length > 0)
     return usr.token;
 else
 return '' ;
